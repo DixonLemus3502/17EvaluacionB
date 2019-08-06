@@ -1,0 +1,16 @@
+body{
+	background-image: url(../img/fon.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.responsive{
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+
+.linu{
+	border: 1px solid white;
+}
